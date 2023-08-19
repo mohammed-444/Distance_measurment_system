@@ -1,0 +1,7 @@
+.metadata/
+*.pdsprj.MOHAMMED.hp.workspace
+Debug/
+.settings/
+.cproject
+.project
+*.pdsbak
